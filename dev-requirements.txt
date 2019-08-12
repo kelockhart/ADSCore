@@ -4,3 +4,5 @@ pytest==5.0.1
 pytest-cov==2.7.1
 pytest-pudb==0.7.0
 coveralls==1.8.2
+Flask-Testing==0.7.1
+httpretty==0.9.6
